@@ -1,4 +1,4 @@
-FROM ubuntu:wily
+FROM ubuntu:trusty
 MAINTAINER Low Kian Seong
 
 ENV FRAPPE_USER frappe
